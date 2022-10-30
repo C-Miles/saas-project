@@ -1,0 +1,13 @@
+sendgrid api key stored in credentials.yml, 
+look into ways to open that file again if needed
+
+production and development.rb files may need tweaking based on two
+different methods of attempting to configure sendgrid and action_mailer
+
+dev or local action_mailer isn't configured properly also may need to change 
+.zshrc file to have a proper path for emails(local)
+
+mashur is getting rid on turnolinks in his application.js file but it looks 
+different due to older rails version , and also the turbolinks gem
+
+
